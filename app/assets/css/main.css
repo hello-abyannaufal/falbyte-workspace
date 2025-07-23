@@ -1,0 +1,9 @@
+@import "tailwindcss";
+@import "@nuxt/ui";
+@import "./common.css";
+
+@theme {
+  --font-sans: "Roboto", sans-serif;
+  --font-serif: "Merriweather", serif;
+  --font-mono: "Courier New", monospace;
+}
